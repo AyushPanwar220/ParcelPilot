@@ -1,0 +1,1 @@
+Known Issue KI-208: bulk upload fails. Known Issue KI-211: SwiftShip 20-minute webhook delay.

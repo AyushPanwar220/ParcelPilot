@@ -1,0 +1,6 @@
+Cancellation & Service Credit SOP v4 (Section 1):
+- DRAFT orders: INR 0
+- BOOKED, cancelled within 30 min: INR 0
+- BOOKED, cancelled after 30 min: INR 250
+
+Section 2: Customers qualify for a service credit if pickup is more than 2 hours late due to carrier fault. The default credit is the lower of INR 500 or 10% of the shipment fee.
